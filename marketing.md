@@ -21,8 +21,8 @@ A curated list of AI tools designed to enhance marketing strategies, automate ta
 - **[Phrasee](https://www.phrasee.co/)** - AI-powered platform for generating optimized marketing messages, including email and social media copy.
 - **[Copy.ai](https://www.copy.ai/)** - AI-powered copywriting tool for generating ad copy, product descriptions, and website content.
 - **[Writesonic](https://writesonic.com/)** - AI writing assistant for marketing content, blogs, and sales copy generation.
-- **[Writon](https://writon.co)** - AI article writer that turns keywords into SEO blog articles with featured images and publishes them to WordPress, by hand, on a schedule, or on autopilot behind a quality score.
 - **[AI Story Book](https://aistorybook.app)** – Illustrated AI storybooks with tools for sharing on socials. Great for marketing through storytelling.
+- **[Writon](https://writon.co)** - AI article writer that turns keywords into SEO blog articles with featured images and publishes them to WordPress, by hand, on a schedule, or on autopilot behind a quality score.
 
 ## Personalization
 
